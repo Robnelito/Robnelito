@@ -5,6 +5,7 @@ Let's develop together... 💻
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<!--
 Me on github                                                                                                                                    | Most used languages |
 ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 [![Robnelito's github stats](https://github-readme-stats.vercel.app/api?username=Robnelito&show_icons=true)](https://github.com/Robnelito) | [![Robnelito's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robnelito&show_icons=true&layout=compact&hide=css,html)](https://github.com/Robnelito)
@@ -15,7 +16,7 @@ Me on github                                                                    
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+-->
 <!--
 **Robnelito/Robnelito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
